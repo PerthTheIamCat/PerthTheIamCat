@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perththeiamcat&show_icons=true&locale=en&layout=compact" alt="perththeiamcat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perththeiamcat&" alt="perththeiamcat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PerthTheIamCat&" alt="PerthTheIamCat" /></p>
 
