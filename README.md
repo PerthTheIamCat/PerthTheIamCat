@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔔 Hi my name is Pawit Thongkum AKA Perth<br>
 🎓 I'm currently studying at Krasetsart University <br><br>
-Just someone who loves cats 😺 ❤️
+Just someone who loves cats 😺 ❤️ 
 
 
 ## 🌐 Socials:
